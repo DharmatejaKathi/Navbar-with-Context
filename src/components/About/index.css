@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.light-para {
+  color: #334155;
+  font-family: 'Roboto';
+}
+
+.dark-para {
+  color: white;
+  font-family: 'Roboto';
+}

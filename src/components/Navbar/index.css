@@ -1,0 +1,51 @@
+/* Write your CSS here */
+.nav {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  align-items: center;
+}
+.website-logo {
+  width: 65px;
+}
+ul {
+  display: flex;
+  width: 150px;
+  justify-content: space-between;
+}
+li {
+  list-style-type: none;
+}
+.link {
+  text-decoration: none;
+}
+.theme-logo {
+  width: 50px;
+  height: 50px;
+}
+.button {
+  outline: none;
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.nav-dark {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+  background-color: #334155;
+  align-items: center;
+}
+.dark-link {
+  color: white;
+  font-family: 'Roboto';
+}
+.light-para {
+  color: black;
+  font-family: 'Roboto';
+}
+.link {
+  text-decoration: none;
+}
